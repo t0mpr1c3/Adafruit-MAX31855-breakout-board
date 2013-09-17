@@ -12,3 +12,5 @@ All text above must be included in any redistribution
 
 Designed by Limor Fried/Ladyada for Adafruit Industries.
 Creative Commons Attribution/Share-Alike, all text above must be included in any redistribution
+
+Modified Tom Price 16 Sep 2013
